@@ -8,8 +8,8 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue" alt="" align="center"/>
 
+Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
 ---------------------------------------------------------
 
 ## HTML и CSS
@@ -69,7 +69,7 @@
 
 ## Хостинг проектов
 
- - [vercel](https://vercel.com/)
+ - [Vercel](https://vercel.com/)
 
 ## Оформление профиля на GitHub
 
