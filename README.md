@@ -1,16 +1,13 @@
 
 # Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/FilimonovAlexey/awesome-frontend-dev)
 
+Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue" alt=""></p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
 </div>
-<!-- <div id="badges" align="center">
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-</div> -->
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
@@ -29,8 +26,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
 </div>
-
-Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
 ---------------------------------------------------------
 
 ## HTML и CSS
