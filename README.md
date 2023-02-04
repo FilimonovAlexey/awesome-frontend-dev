@@ -61,6 +61,7 @@
  - [Генератор Readme](https://profilinator.rishav.dev/)
  - [Генератор Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
  - [Генератор Readme](https://www.profileme.dev/)
+ - [Составление файла Readme](https://readme.so/ru)
 
 ## Каналы telegram
 
@@ -73,7 +74,7 @@
 ## Бесплатные курсы
 
  - [Скоро...]()
- 
+
 ## Authors
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
