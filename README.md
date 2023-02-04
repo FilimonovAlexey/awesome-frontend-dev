@@ -1,5 +1,7 @@
 
-# Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/FilimonovAlexey/awesome-frontend-dev)
+# Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/FilimonovAlexey/awesome-frontend-dev)[![Awesome](https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue)](https://github.com/FilimonovAlexey/awesome-frontend-dev)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue" alt=""></p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
