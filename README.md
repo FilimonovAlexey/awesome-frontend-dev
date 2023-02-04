@@ -12,6 +12,8 @@
  - [CSS референс](https://cssreference.io/)
  - [Шпаргалка по GRID](https://grid.malven.co/)
  - [Шпаргалка по FLEX](https://flexbox.malven.co/)
+ - [Автопрефиксер CSS](https://autoprefixer.github.io/ru/)
+ - [Генерации CSS-элемента с тенью](https://cssgenerator.org/box-shadow-css-generator.html)
 
 ## JavaScript
 
@@ -43,11 +45,19 @@
  - [Учебники и статьи для Программистов](https://codernet.ru/)
  - [Документация, методология БЭМ](https://ru.bem.info/)
  - [Создание аватара](https://pfpmaker.com/)
+ - [Проверка совместимости технологий](https://caniuse.com/)
+ - [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection)
+ - [Иконки](https://thenounproject.com/)
+ - [Библиотека кода github](https://grep.app/)
 
 ## Софт
 
  - [Организация сниппетов кода](https://snipit.io/)
  - [Документация](https://kapeli.com/dash)
+
+## Хостинг проектов
+
+ - [vercel](https://vercel.com/)
 
 ## Оформление профиля на GitHub
 
@@ -73,7 +83,13 @@
 
 ## Бесплатные курсы
 
- - [Скоро...]()
+ - [Изучение возможностей git](https://learngitbranching.js.org/?locale=ru_RU)
+ - [Курсы от microsoft](https://learn.microsoft.com/ru-ru/training/)
+ - [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
+ - [Знакомство с HTML и CSS](https://htmlacademy.ru/courses/basic-html-css)
+ - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html?ref=287543)
+ - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
+ - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
 
 ## Authors
 
