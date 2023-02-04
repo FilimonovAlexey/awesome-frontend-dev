@@ -26,7 +26,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
 </div>
----------------------------------------------------------
 
 ## HTML и CSS
 
