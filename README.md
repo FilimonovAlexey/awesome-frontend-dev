@@ -3,6 +3,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
 </div>
+  <div id="badges">
+    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue" alt=""/>
+
+---------------------------------------------------------
 
 ## HTML и CSS
 
