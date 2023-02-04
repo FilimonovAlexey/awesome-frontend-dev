@@ -51,7 +51,16 @@
 
 ## Оформление профиля на GitHub
 
- - [Скоро...]()
+ - [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+ - [Генератор кастомных бейджей](https://shields.io/)
+ - [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy)
+ - [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats)
+ - [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph)
+ - [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ - [Генератор Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+ - [Генератор Readme](https://profilinator.rishav.dev/)
+ - [Генератор Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+ - [Генератор Readme](https://www.profileme.dev/)
 
 ## Каналы telegram
 
@@ -64,6 +73,7 @@
 ## Бесплатные курсы
 
  - [Скоро...]()
+ 
 ## Authors
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
