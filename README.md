@@ -1,5 +1,9 @@
 
 # Полезные материалы по веб-разработке!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+</div>
+
 ## HTML и CSS
 
  - [Справочник по HTML и CSS](https://github.com/xsltdev/hcdev.ru)
