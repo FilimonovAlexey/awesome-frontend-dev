@@ -42,7 +42,7 @@
  - [Автопрефиксер CSS](https://autoprefixer.github.io/ru/)
  - [Генерации CSS-элемента с тенью](https://cssgenerator.org/box-shadow-css-generator.html)
 
-## JavaScript [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+## JavaScript <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 
  - [Современный учебник JavaScript](https://learn.javascript.ru/)
  - [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
