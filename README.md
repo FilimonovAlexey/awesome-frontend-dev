@@ -42,7 +42,7 @@
  - [Автопрефиксер CSS](https://autoprefixer.github.io/ru/)
  - [Генерации CSS-элемента с тенью](https://cssgenerator.org/box-shadow-css-generator.html)
 
-## JavaScript
+## JavaScript [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
  - [Современный учебник JavaScript](https://learn.javascript.ru/)
  - [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -61,6 +61,8 @@
  - [Документация](https://ru.reactjs.org/)
  - [Тема на Хабре](https://habr.com/ru/hub/reactjs/)
  - [Awesome-react](https://github.com/enaqx/awesome-react)
+ - [Cборник готового кода](https://devhints.io/react)
+ - [Cборник готового кода](https://reactcheatsheet.com/)
 
 ## Общее
 
