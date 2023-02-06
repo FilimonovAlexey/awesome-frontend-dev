@@ -78,6 +78,8 @@
  - [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection)
  - [Иконки](https://thenounproject.com/)
  - [Библиотека кода github](https://grep.app/)
+ - [Metanit - сайт о программировании](https://metanit.com/)
+ - [Поисковик онлайн-репозиториев](https://libraries.io/)
 
 ## Софт
 
