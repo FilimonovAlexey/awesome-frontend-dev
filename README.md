@@ -122,7 +122,7 @@
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
 
-## Authors
+## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
 
