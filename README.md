@@ -89,6 +89,8 @@
 ## Хостинг проектов
 
  - [Vercel](https://vercel.com/)
+ - [Netlify](https://www.netlify.com/)
+
 
 ## Оформление профиля на GitHub
 
