@@ -108,7 +108,17 @@
 
 ## Каналы telegram
 
- - [Скоро...]()
+ - [Всё по фронтенду, бэкенду и девопсу в одном месте](https://t.me/tproger_web)
+ - [Полезные материалы по всему, что может быть интересно программисту.](https://t.me/proglibrary)
+ - [Библиотека программиста](https://t.me/frontendbooksit)
+ - [Годные статьи для Frontend разработчиков](https://t.me/frontendnoteschannel)
+ - [Регулярные заметки по практическому JavaScript.](https://t.me/notesjs)
+ - [Уникальные статьи и переводы](https://t.me/nuancesprog)
+ - [Обо всём что связано с frontend разработкой](https://t.me/frontend_mind)
+ - [Лагерь IT-специалистов!](https://t.me/codecamp)
+ - [Канал для подготовки к собеседованиям по фронтенду](https://t.me/frontendInterview)
+ - [Твой наставник в мире веб-разработки!](https://t.me/WebMentor)
+ - [Полезные материалы по всему, что может быть интересно frontend-разработчику.](https://t.me/frontendproglib)
 
 ## YouTube каналы
 
