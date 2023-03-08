@@ -90,6 +90,7 @@
 
  - [Vercel](https://vercel.com/)
  - [Netlify](https://www.netlify.com/)
+ - [Heroku](https://www.heroku.com/)
 
 
 ## Оформление профиля на GitHub
