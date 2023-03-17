@@ -135,6 +135,15 @@
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
 
+## Тренировка написания кода
+
+ - [LeetCode](https://leetcode.com/)
+ - [Codewars](https://www.codewars.com/)
+ - [Coderbyte](https://coderbyte.com/)
+ - [HackerRank](https://www.hackerrank.com/)
+ - [Project Euler](https://projecteuler.net/)
+ - [Codeforces](https://codeforces.com/)
+
 ## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
