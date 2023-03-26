@@ -134,6 +134,7 @@
  - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html?ref=287543)
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
+ - [RS School](https://rs.school/index.html)
 
 ## Тренировка написания кода
 
