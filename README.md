@@ -80,6 +80,9 @@
  - [Библиотека кода github](https://grep.app/)
  - [Metanit - сайт о программировании](https://metanit.com/)
  - [Поисковик онлайн-репозиториев](https://libraries.io/)
+ - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
+ - [Cервис для облегчения создания резюме](https://resume.io/)
+ - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
 
 ## Софт
 
