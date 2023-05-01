@@ -150,7 +150,7 @@
  - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html?ref=287543)
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
- - [RS School](https://rs.school/index.html)
+ - [RS School - бесплатная школа программирования](https://rs.school/index.html)
  - [Школа 21 - бесплатная школа от Сбера](https://21-school.ru/)
  - [Alfa campus - бесплатная школа Альфа банка](https://alfa-campus.ru/)
 
