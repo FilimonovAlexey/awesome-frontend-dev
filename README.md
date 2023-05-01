@@ -126,7 +126,11 @@
 
 ## YouTube каналы
 
- - [Скоро...]()
+ - [webDev - образовательный канал о веб-разработке.](https://www.youtube.com/@YauhenKavalchuk/featured)
+ - [Гоша Дударь - различные подборки видео уроков по созданию сайтов, игр, программ.](https://www.youtube.com/c/gosha_dudar)
+ - [Хауди Хо - Просто о мире IT.](https://www.youtube.com/@HowdyhoNet)
+ - [Владилен Минин - видео про фронтенд.](https://www.youtube.com/@HowdyhoNet)
+
 
 ## Бесплатные курсы
 
