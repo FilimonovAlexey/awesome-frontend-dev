@@ -69,8 +69,8 @@
  - [Дорожная карта фронтендера](https://roadmap.sh/frontend)
  - [Дока (HTML, CSS, JavaScript)](https://doka.guide/)
  - [10 игр для изучения JavaScript](https://techrocks.ru/2023/01/09/10-games-for-javascript-learning/)
- - [proglib](https://proglib.io/)
- - [tproger](https://tproger.ru/)
+ - [Proglib](https://proglib.io/)
+ - [Tproger](https://tproger.ru/)
  - [Учебники и статьи для Программистов](https://codernet.ru/)
  - [Документация, методология БЭМ](https://ru.bem.info/)
  - [Создание аватара](https://pfpmaker.com/)
@@ -83,6 +83,11 @@
  - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
  - [Cервис для облегчения создания резюме](https://resume.io/)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
+
+ ## Подготовка к собеседованию
+
+ - [70 вопросов по JavaScript](https://habr.com/ru/articles/486820/)
+ - [Front-end. Вопросы на собеседовании](https://www.youtube.com/watch?v=ycYp7CYOnO0&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg&ab_channel=webDev)
 
 ## Полезные программы
 
