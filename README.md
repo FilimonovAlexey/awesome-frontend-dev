@@ -1,7 +1,7 @@
 
 # Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/FilimonovAlexey/awesome-frontend-dev)
 
-Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
+Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику! Также тут собраны материалы для подготовки к собеседованию.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue" alt=""></p>
 
@@ -143,6 +143,8 @@
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
  - [RS School](https://rs.school/index.html)
+ - [Школа 21 - бесплатная школа от Сбера](https://21-school.ru/)
+ - [Alfa campus - бесплатная школа Альфа банка](https://alfa-campus.ru/)
 
 ## Тренировка написания кода
 
