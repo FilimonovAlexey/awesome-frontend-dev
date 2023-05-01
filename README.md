@@ -84,10 +84,13 @@
  - [Cервис для облегчения создания резюме](https://resume.io/)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
 
-## Софт
+## Полезные программы
 
+ - [VS Code - лучшая среда разработки](https://code.visualstudio.com/)
+ - [Postman - тестирование API](https://www.postman.com/)
  - [Организация сниппетов кода](https://snipit.io/)
  - [Документация](https://kapeli.com/dash)
+ - [Notion - заметки](https://www.notion.so/)
 
 ## Хостинг проектов
 
@@ -110,7 +113,7 @@
  - [Генератор Readme](https://www.profileme.dev/)
  - [Составление файла Readme](https://readme.so/ru)
 
-## Каналы telegram
+## Telegram каналы
 
  - [Всё по фронтенду, бэкенду и девопсу в одном месте](https://t.me/tproger_web)
  - [Полезные материалы по всему, что может быть интересно программисту.](https://t.me/proglibrary)
