@@ -64,6 +64,10 @@
  - [Cборник готового кода](https://devhints.io/react)
  - [Cборник готового кода](https://reactcheatsheet.com/)
 
+## SQL
+ - [Бесплатный курс + тренажер по SQL](https://sql-academy.org/ru)
+ - [Онлайн курс по SQL](https://learndb.ru/)
+
 ## Общее
 
  - [Дорожная карта фронтендера](https://roadmap.sh/frontend)
