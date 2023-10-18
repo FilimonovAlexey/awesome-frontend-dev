@@ -63,6 +63,8 @@
  - [Awesome-react](https://github.com/enaqx/awesome-react)
  - [Cборник готового кода](https://devhints.io/react)
  - [Cборник готового кода](https://reactcheatsheet.com/)
+ - [Справочник React](https://reactdev.ru/)
+
 
 ## SQL
  - [Бесплатный курс + тренажер по SQL](https://sql-academy.org/ru)
@@ -94,6 +96,7 @@
  - [Front-end. Вопросы на собеседовании](https://www.youtube.com/watch?v=ycYp7CYOnO0&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg&ab_channel=webDev)
  - [Dev Questions - Шпаргалки по вопросам с IT-собеседований](https://dev-questions.com/)
  - [Владилен Минин - Подготовка к JavaScript собеседованию](https://youtu.be/M_pclb-58ZY)
+ - [Решение задач, itresume](https://itresume.ru/)
 
 ## Полезные программы
 
