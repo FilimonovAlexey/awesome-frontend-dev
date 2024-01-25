@@ -173,6 +173,13 @@
  - [Project Euler](https://projecteuler.net/)
  - [Codeforces](https://codeforces.com/)
 
+## Нейросети для программистов
+
+ - [GitHub Copilot](https://github.com/features/copilot)
+ - [Tabnine](https://www.tabnine.com/)
+ - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer?ref=codesubmit)
+ - [Replit GhostWriter](https://replit.com/site/ghostwriter)
+
 ## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
