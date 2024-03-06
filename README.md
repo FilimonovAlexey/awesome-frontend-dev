@@ -163,11 +163,22 @@
  - [RS School - бесплатная школа программирования](https://rs.school/index.html)
  - [Школа 21 - бесплатная школа от Сбера](https://21-school.ru/)
  - [Alfa campus - бесплатная школа Альфа банка](https://alfa-campus.ru/)
+ - [Flexbox](https://scrimba.com/learn/flexbox?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [CSS Grid](https://scrimba.com/learn/cssgrid?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [CSS Variables](https://scrimba.com/learn/cssvariables?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [CSS Animations](https://scrimba.com/learn/cssanimations?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [ES6+](https://scrimba.com/learn/introtoes6?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [JavaScript](https://scrimba.com/learn/es6?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [TypeScript](https://scrimba.com/learn/typescript?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [React](https://scrimba.com/learn/learnreact?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [React Hooks](https://scrimba.com/learn/reacthooks?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+
 
 ## Тренировка написания кода
 
  - [LeetCode](https://leetcode.com/)
  - [Codewars](https://www.codewars.com/)
+ - [Сoderun](https://coderun.yandex.ru/catalog)
  - [Coderbyte](https://coderbyte.com/)
  - [HackerRank](https://www.hackerrank.com/)
  - [Project Euler](https://projecteuler.net/)
