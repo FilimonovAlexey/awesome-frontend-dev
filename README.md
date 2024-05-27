@@ -33,6 +33,7 @@
  - [Тема на Хабре по HTML](https://habr.com/ru/hub/html5/)
  - [Тема на Хабре по CSS](https://habr.com/ru/hub/css/)
  - [HTML5Book](https://html5book.ru/)
+ - [HTML](https://html.com/)
  - [HTMLBook](http://htmlbook.ru/)
  - [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
  - [HTML и CSS референс](https://webref.ru/)
@@ -64,11 +65,14 @@
  - [Cборник готового кода](https://devhints.io/react)
  - [Cборник готового кода](https://reactcheatsheet.com/)
  - [Справочник React](https://reactdev.ru/)
-
+ - [reactplay](https://reactplay.io/)
+ - [Учебник по Next JS](https://nextjs.org/learn)
+ - [Руководство по Next JS на Хабр](https://habr.com/ru/companies/timeweb/articles/804663/)
 
 ## SQL
  - [Бесплатный курс + тренажер по SQL](https://sql-academy.org/ru)
  - [Онлайн курс по SQL](https://learndb.ru/)
+ - [SQL Tutorial](https://www.w3schools.com/sql/)
 
 ## Общее
 
