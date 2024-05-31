@@ -193,6 +193,13 @@
  - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer?ref=codesubmit)
  - [Replit GhostWriter](https://replit.com/site/ghostwriter)
 
+## Что почитать?
+
+ - [Хабр](https://habr.com/ru/articles/)
+ - [tproger](https://tproger.ru/)
+ - [proglib](https://proglib.io/)
+ - [Блог Selectel](https://selectel.ru/blog/)
+
 ## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
