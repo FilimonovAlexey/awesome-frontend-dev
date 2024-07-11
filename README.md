@@ -27,7 +27,7 @@
 ## Полезные проекты
 
  - [Мультиссылка для социальных сетей на React js](https://github.com/FilimonovAlexey/link-bio-page)
- - [Telegram бот обратной связи. JavaScript](https://github.com/FilimonovAlexey/YouTubeHelperTgBot)
+ - [Telegram бот обратной связи на JavaScript](https://github.com/FilimonovAlexey/YouTubeHelperTgBot)
  - [Telegram Бот для подготовки к собеседованию на Frontend разработчика](https://github.com/FilimonovAlexey/tech-interview-trainer)
  - [Telegram бот для управления сервером на JavaScript](https://github.com/FilimonovAlexey/ControlServerBot)
 
