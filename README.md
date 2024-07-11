@@ -24,6 +24,13 @@
     </a>
 </div>
 
+## Полезные проекты
+
+ - [Мультиссылка для социальных сетей на React js](https://github.com/FilimonovAlexey/link-bio-page)
+ - [Telegram бот обратной связи. JavaScript](https://github.com/FilimonovAlexey/YouTubeHelperTgBot)
+ - [Telegram Бот для подготовки к собеседованию на Frontend разработчика](https://github.com/FilimonovAlexey/tech-interview-trainer)
+ - [Telegram бот для управления сервером на JavaScript](https://github.com/FilimonovAlexey/ControlServerBot)
+
 ## HTML и CSS
 
  - [Справочник по HTML и CSS](https://github.com/xsltdev/hcdev.ru)
@@ -131,6 +138,7 @@
 
 ## Telegram каналы
 
+ - [Много полезных материалов в одном месте](https://t.me/tehnomaniak07)
  - [Всё по фронтенду, бэкенду и девопсу в одном месте](https://t.me/tproger_web)
  - [Полезные материалы по всему, что может быть интересно программисту](https://t.me/proglibrary)
  - [Библиотека программиста](https://t.me/frontendbooksit)
@@ -145,6 +153,7 @@
 
 ## YouTube каналы
 
+ - [Техноманьяк - гайды, полезные материалы, гаджеты для Программистов](https://www.youtube.com/@tehno.maniak)
  - [webDev - образовательный канал о веб-разработке](https://www.youtube.com/@YauhenKavalchuk/featured)
  - [Гоша Дударь - различные подборки видео уроков по созданию сайтов, игр, программ](https://www.youtube.com/c/gosha_dudar)
  - [Хауди Хо - Просто о мире IT](https://www.youtube.com/@HowdyhoNet)
