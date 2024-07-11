@@ -31,6 +31,15 @@
  - [Telegram Бот для подготовки к собеседованию на Frontend разработчика](https://github.com/FilimonovAlexey/tech-interview-trainer)
  - [Telegram бот для управления сервером на JavaScript](https://github.com/FilimonovAlexey/ControlServerBot)
 
+## Видео-гайды на YouTube
+
+ - [Как создать Telegram бота с ChatGPT?](https://youtu.be/2K69fwmCGQc?si=tpA_F_ooT5DNpMGT)
+ - [Правильное оформление своего профиля на GitHub](https://youtu.be/CRK1dIGb5gg?si=Otocef8kk4EX7qBg)
+ - [Как получить GitHub Student Developer Pack?](https://youtu.be/xs_l-mVjM_w?si=bHN3YKDAsgo25XiM)
+ - [Как разместить Telegram Бота на Сервере?](https://youtu.be/vPqAYdjkm4o?si=a0ev6sKhHbyIWhWe)
+ - [Как пользоваться YouTrack для Программистов?](https://youtu.be/dWWPqutNEjM?si=dKpb5dCuEU_v-hSS)
+ - [Бесплатный хостинг Vercel для сайта | Как разместить сайт в интернете?](https://youtu.be/yO0XL-DqEck?si=rlOaUjS-5DAsvqDa)
+
 ## HTML и CSS
 
  - [Справочник по HTML и CSS](https://github.com/xsltdev/hcdev.ru)
