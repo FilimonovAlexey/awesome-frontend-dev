@@ -30,6 +30,8 @@
  - [Telegram бот обратной связи на JavaScript](https://github.com/FilimonovAlexey/YouTubeHelperTgBot)
  - [Telegram Бот для подготовки к собеседованию на Frontend разработчика](https://github.com/FilimonovAlexey/tech-interview-trainer)
  - [Telegram бот для управления сервером на JavaScript](https://github.com/FilimonovAlexey/ControlServerBot)
+ - [Telegram бот фильтр мата на JavaScript](https://github.com/FilimonovAlexey/anti-spam-telegram-bot)
+
 
 ## Видео-гайды на YouTube
 
