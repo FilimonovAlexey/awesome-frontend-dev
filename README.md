@@ -88,6 +88,8 @@
  - [Бесплатный курс + тренажер по SQL](https://sql-academy.org/ru)
  - [Онлайн курс по SQL](https://learndb.ru/)
  - [SQL Tutorial](https://www.w3schools.com/sql/)
+ - [SQLTest: задачи по SQL](https://sqltest.online/ru/)
+ - [Упражнения по SQL](https://sql-ex.ru/)
 
 ## Общее
 
@@ -101,21 +103,26 @@
  - [Создание аватара](https://pfpmaker.com/)
  - [Проверка совместимости технологий](https://caniuse.com/)
  - [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection)
- - [Иконки](https://thenounproject.com/)
  - [Библиотека кода github](https://grep.app/)
  - [Metanit - сайт о программировании](https://metanit.com/)
  - [Поисковик онлайн-репозиториев](https://libraries.io/)
  - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
  - [Cервис для облегчения создания резюме](https://resume.io/)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
+ - [Градиенты для фона на CSS](https://uigradients.com/)
+ - [Beer CSS - фреймворк на базе Material Design 3](https://www.beercss.com/)
 
  ## Подготовка к собеседованию
 
  - [70 вопросов по JavaScript](https://habr.com/ru/articles/486820/)
+ - [50 вопросов с ответами по Vue](https://jsjob.ru/questions-vue)
+ - [50 вопросов с ответами по React](https://jsjob.ru/questions-react)
+ - [40 вопросов с ответами по Angular](https://jsjob.ru/questions-angular)
  - [Front-end. Вопросы на собеседовании](https://www.youtube.com/watch?v=ycYp7CYOnO0&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg&ab_channel=webDev)
  - [Dev Questions - Шпаргалки по вопросам с IT-собеседований](https://dev-questions.com/)
  - [Владилен Минин - Подготовка к JavaScript собеседованию](https://youtu.be/M_pclb-58ZY)
  - [Решение задач, itresume](https://itresume.ru/)
+ - [Онлайн тест по JavaScript, HTML и CSS и фреймворкам](https://jsjob.ru/quest)
 
 ## Полезные программы
 
@@ -124,6 +131,41 @@
  - [Организация сниппетов кода](https://snipit.io/)
  - [Документация](https://kapeli.com/dash)
  - [Notion - заметки](https://www.notion.so/)
+ - [Affine - заметки, холсты](https://affine.pro/)
+ - [Obsidian - заметки, графы, холсты](https://obsidian.md/)
+
+
+## Полезные библиотеки
+
+ - [validator.js - библиотека для валидации строк](https://github.com/validatorjs/validator.js)
+ - [Numbro.js - преобразование и форматирование чисел на 30-ти языках](https://numbrojs.com/)
+ - [Moment.js - расширенная работа с датами](https://momentjs.com/)
+ - [Vanilla Calendar Pro - мощный, гибкий и легкий календарь](https://github.com/uvarov-frontend/vanilla-calendar-pro)
+ - [Better Auth - аутентификация без привязки к фреймворку](https://www.better-auth.com/)
+ - [React Admin - создание админ панелей на React](https://marmelab.com/react-admin/)
+ - [React-Toastify - окошки с уведомлениями](https://github.com/fkhadra/react-toastify)
+ - [Fancy Components - эффекты для элементов страниц](https://www.fancycomponents.dev/)
+ 
+
+## Наборы иконок
+
+- [Иконки](https://thenounproject.com/)
+- [HeroIcons](https://heroicons.com/)
+- [Remix Icon](https://remixicon.com/)
+- [Octicons](https://primer.style/foundations/icons)
+- [iconSvg](https://iconsvg.co/)
+- [Gradienty - анимированные иконки](https://gradienty.codes/animated-icons)
+- [Iconify Design - наборы бесплатных иконок](https://icon-sets.iconify.design/)
+ 
+
+## Анимация
+
+- [Animate.css](https://animate.style/)
+- [Anime.js](https://animejs.com/)
+- [Popmotion](https://popmotion.io/)
+- [Snap.svg](http://snapsvg.io/)
+- [Vivus - анимация для SVG](https://maxwellito.github.io/vivus/)
+
 
 ## Хостинг проектов
 
@@ -153,7 +195,6 @@
  - [Всё по фронтенду, бэкенду и девопсу в одном месте](https://t.me/tproger_web)
  - [Полезные материалы по всему, что может быть интересно программисту](https://t.me/proglibrary)
  - [Библиотека программиста](https://t.me/frontendbooksit)
- - [Годные статьи для Frontend разработчиков](https://t.me/frontendnoteschannel)
  - [Регулярные заметки по практическому JavaScript](https://t.me/notesjs)
  - [Уникальные статьи и переводы](https://t.me/nuancesprog)
  - [Обо всём что связано с frontend разработкой](https://t.me/frontend_mind)
@@ -212,6 +253,8 @@
  - [Tabnine](https://www.tabnine.com/)
  - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer?ref=codesubmit)
  - [Replit GhostWriter](https://replit.com/site/ghostwriter)
+ - [Mintlify](https://writer.mintlify.com/)
+
 
 ## Что почитать?
 
@@ -223,4 +266,3 @@
 ## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
-
