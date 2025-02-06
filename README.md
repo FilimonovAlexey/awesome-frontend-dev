@@ -57,6 +57,7 @@
  - [Шпаргалка по FLEX](https://flexbox.malven.co/)
  - [Автопрефиксер CSS](https://autoprefixer.github.io/ru/)
  - [Генерации CSS-элемента с тенью](https://cssgenerator.org/box-shadow-css-generator.html)
+ - [Emmet - плагин для редакторов для быстрого написания HTML](https://emmet.io/)
 
 ## JavaScript
 
@@ -88,6 +89,7 @@
  - [Бесплатный курс + тренажер по SQL](https://sql-academy.org/ru)
  - [Онлайн курс по SQL](https://learndb.ru/)
  - [SQL Tutorial](https://www.w3schools.com/sql/)
+ - [DBFiddle - онлайн-песочница SQL](https://www.db-fiddle.com/)
 
 ## Общее
 
@@ -108,6 +110,8 @@
  - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
  - [Cервис для облегчения создания резюме](https://resume.io/)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
+ - [Тестовые задания](https://github.com/Hexlet/ru-test-assignments)
+ - [Free for dev - различные бесплатные инструменты для разработчиков](https://free-for.dev/)
 
  ## Подготовка к собеседованию
 
@@ -124,6 +128,7 @@
  - [Организация сниппетов кода](https://snipit.io/)
  - [Документация](https://kapeli.com/dash)
  - [Notion - заметки](https://www.notion.so/)
+ - [Obsidian - оффлайн-заметки](https://obsidian.md/)
 
 ## Хостинг проектов
 
@@ -131,7 +136,7 @@
  - [Vercel](https://vercel.com/)
  - [Netlify](https://www.netlify.com/)
  - [Heroku](https://www.heroku.com/)
-
+ - [Render](https://render.com/)
 
 ## Оформление профиля на GitHub
 
@@ -193,6 +198,7 @@
  - [TypeScript](https://scrimba.com/learn/typescript?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
  - [React](https://scrimba.com/learn/learnreact?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
  - [React Hooks](https://scrimba.com/learn/reacthooks?utm_campaign=sschool24&utm_content=pre-registration&utm_medium=email&utm_source=mindbox)
+ - [Code Basisc](https://code-basics.com/ru) - основы HTML, CSS, JS, PHP
 
 
 ## Тренировка написания кода
@@ -204,6 +210,7 @@
  - [HackerRank](https://www.hackerrank.com/)
  - [Project Euler](https://projecteuler.net/)
  - [Codeforces](https://codeforces.com/)
+ - [Codebattle](https://codebattle.hexlet.io/)
 
 ## Нейросети для программистов
 
@@ -212,6 +219,7 @@
  - [Tabnine](https://www.tabnine.com/)
  - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer?ref=codesubmit)
  - [Replit GhostWriter](https://replit.com/site/ghostwriter)
+ - [DuckDuckGo AI Chat](https://duckduckgo.com/aichat)
 
 ## Что почитать?
 
@@ -223,4 +231,3 @@
 ## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
-
