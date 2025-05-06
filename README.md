@@ -41,7 +41,9 @@
  - [Какой ChatGPT выбрать в 2025?](https://youtu.be/FAisER6rj44)
  - [Обзор Grok Studio](https://youtu.be/LmTAnOTHtkI)
  - [Секрет идеального промта, который выдают только своим](https://youtu.be/8WnhnKj4ios)
+ - [Гайд по Cursor Ai](https://youtu.be/17ARAj1x5sI)
  - [Этот MCP сервер в Cursor AI поможет писать код лучше, чем у 90% разработчиков](https://youtu.be/cGm_Ppja4jA)
+ - [Забудь про команды Git | Этот MCP сервер в Cursor AI автоматизирует работу с GitHub!](https://youtu.be/17ARAj1x5sI)
 
 ## HTML и CSS
 
