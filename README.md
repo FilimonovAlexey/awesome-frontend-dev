@@ -110,6 +110,7 @@
  - [Поисковик онлайн-репозиториев](https://libraries.io/)
  - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
  - [Cервис для облегчения создания резюме](https://resume.io/)
+ - [ResumeAI — AI-резюме и бесплатный ATS-чекер](https://withresumeai.com/) (State of ATS 2026: 738/704, Workday 37.9%)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
 
  ## Подготовка к собеседованию
